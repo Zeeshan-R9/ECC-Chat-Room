@@ -149,9 +149,3 @@ This project is built from **scratch** to help understand:
 > ⚠️ This project is a **work-in-progress prototype** intended for learning and experimentation. Not ready for production.
 
 ---
-
-## 📜 License
-
-MIT License
-
-```
